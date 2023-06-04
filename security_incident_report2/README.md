@@ -27,7 +27,6 @@ udp port 53 unreachable length 150</p>
 
 <p><span style="font-size:16px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="color:#000000">The incident was reported when s</span>everal customers contacted our company to report that they were not able to access the company website www.yummyrecipesforme.com, and saw the error &ldquo;destination port unreachable&rdquo; after waiting for the page to load.&nbsp;</span></span></p>
 
-<p>&nbsp;</p>
 
 <p><span style="font-size:16px"><span style="font-family:Arial,Helvetica,sans-serif">The current status of the issue is that there is an ongoing problem with the resolution of the domain &quot;yummyrecipesforme.com.&quot; The DNS queries from the source IP address 192.51.100.15 to the destination IP address 203.0.113.2 on port 53 are consistently resulting in ICMP responses indicating that the destination server is unreachable on UDP port 53.</span></span></p>
 
