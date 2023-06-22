@@ -1,6 +1,6 @@
 <p><span style="font-size:14px"><span style="font-family:Arial,Helvetica,sans-serif">In order to keep track of my valuable possessions and ensure their safety, I have created a home asset inventory list. This list includes important items such as my computer, external hard drives, and wireless router. By maintaining an organized record of these assets, I can easily monitor their condition, track their location, and have a comprehensive overview of the technology that is essential to my daily life. Having this inventory provides me with peace of mind, knowing that I am taking proactive steps to safeguard my valuable digital equipment and effectively manage my home technology resources.</span></span></p>
 
-<h3><span style="font-family:Arial,Helvetica,sans-serif">Home Asset Inventory</span></h3>
+<h2><span style="font-family:Arial,Helvetica,sans-serif">Home Asset Inventory</span></h2>
 
 <table border="1" cellpadding="0" cellspacing="0" dir="ltr">
 	<tbody>
