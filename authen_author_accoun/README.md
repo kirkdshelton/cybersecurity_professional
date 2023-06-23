@@ -427,8 +427,9 @@
 			<td>
 			<p><strong>Objective: Make at least 1 recommendation that could prevent this kind of incident:</strong><br />
 			In the future, the principle of least privilege should be applied. As a contract employee, he should have not received Admin Access.<br />
-			<br />
-			Separation of duties should also have been applied. A contract employee that worked in the Legal Department should not have access to payroll disbursements and banking information.</p>
+			Separation of duties should also have been applied. A contract employee that worked in the Legal Department should not have access to payroll disbursements and banking information.<br />
+			User accounts should expire after 30 days.<br />
+			Enable multi-factor authentication (MFA).</p>
 			</td>
 		</tr>
 		<tr>
