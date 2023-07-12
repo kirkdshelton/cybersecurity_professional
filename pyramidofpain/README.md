@@ -14,6 +14,8 @@
 
 <p><span style="font-size:14px">Flagpro, as a form of malware, exhibits a wide range of sophisticated techniques that enable it to infiltrate and compromise targeted systems. Its deployment has been observed in numerous high-profile cyber attacks, often resulting in significant breaches and extensive damage to the affected entities. The utilization of this file hash by the BlackTech threat actor group serves as a strong indication of their involvement and highlights the gravity of the situation at hand.</span></p>
 
+<h3><strong>Indicators of compromise&nbsp;</strong>(<strong>IoCs</strong>)</h3>
+
 <p>Identify <em>three</em> <strong>indicators of compromise </strong>(<strong>IoCs</strong>) that are associated with this file hash using the tabs in the VirusTotal report. Then, enter the IoCs into their respective sections in the Pyramid of Pain template.</p>
 
 <p>Indicators of compromise are valuable sources of information for security professionals because they are used to identify malicious activity. You can choose to identify any three of the six types of IoCs found in the Pyramid of Pain:</p>
@@ -38,4 +40,5 @@
 	<p><strong>Tactics, techniques, and procedures (TTPs):</strong> TTPs describe the behavior of an attacker. Using the sandbox reports from the Behavior tab, find the list of tactics and techniques used by this malware as identified by MITRE ATT&amp;CK&reg; and enter it beside the <strong>TTPs</strong> section in the Pyramid of Pain template.&nbsp;</p>
 	</li>
 </ul>
+
 <img width="1744" alt="pyramidofpain" src="https://github.com/kirkdshelton/cybersecurity_professional/assets/10577356/f4b76fc4-6a0b-46af-ae59-009525e416d7">
