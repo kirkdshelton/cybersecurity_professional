@@ -14,5 +14,28 @@
 
 <p><span style="font-size:14px">Flagpro, as a form of malware, exhibits a wide range of sophisticated techniques that enable it to infiltrate and compromise targeted systems. Its deployment has been observed in numerous high-profile cyber attacks, often resulting in significant breaches and extensive damage to the affected entities. The utilization of this file hash by the BlackTech threat actor group serves as a strong indication of their involvement and highlights the gravity of the situation at hand.</span></p>
 
-<p>&nbsp;</p>
+<p>Identify <em>three</em> <strong>indicators of compromise </strong>(<strong>IoCs</strong>) that are associated with this file hash using the tabs in the VirusTotal report. Then, enter the IoCs into their respective sections in the Pyramid of Pain template.</p>
+
+<p>Indicators of compromise are valuable sources of information for security professionals because they are used to identify malicious activity. You can choose to identify any three of the six types of IoCs found in the Pyramid of Pain:</p>
+
+<ul>
+	<li>
+	<p><strong>Hash value:</strong> Hashes convert information into a unique value that can&#39;t be decrypted. Hashes are often used as unique references to files involved in an intrusion. In this activity, you used a SHA256 hash as the artifact for this investigation. Find another hash that&#39;s used to identify this malware and enter it beside the <strong>Hash values </strong>section in the Pyramid of Pain template.&nbsp;You can use the <strong>Details</strong> tab to help you identify other hashes.</p>
+	</li>
+	<li>
+	<p><strong>IP address</strong>: Find an IP address that this malware contacted and enter it beside the <strong>IP</strong> <strong>addresses</strong> section in the Pyramid of Pain template. You can locate IP addresses in the <strong>Relations</strong> tab under the Contacted IP addresses section or in the <strong>Behavior</strong> tab under the IP Traffic section.</p>
+	</li>
+	<li>
+	<p><strong>Domain name:</strong> Find a domain name that this malware contacted and enter it beside the <strong>Domain names </strong>section<strong> </strong>in the Pyramid of Pain template. You can find domain name information under the Relations tab. You might encounter benign domain names. Use the <strong>Detections</strong> column to identify domain names that have been reported as malicious.</p>
+	</li>
+	<li>
+	<p><strong>Network artifact/host artifact:</strong> Malware can create network-related or host-related artifacts on an infected system. Find a network-related or host-related artifact that this malware created and enter it beside the <strong>Network/host artifacts</strong> section in the Pyramid of Pain template. You can find this information from the sandbox reports under the <strong>Behavior </strong>tab or from the Relations tab.</p>
+	</li>
+	<li>
+	<p><strong>Tools:</strong> Attackers can use tools to achieve their goal. Try to find out if this malware has used any tool. Then, enter it beside the <strong>Tools </strong>section in the Pyramid of Pain template.</p>
+	</li>
+	<li>
+	<p><strong>Tactics, techniques, and procedures (TTPs):</strong> TTPs describe the behavior of an attacker. Using the sandbox reports from the Behavior tab, find the list of tactics and techniques used by this malware as identified by MITRE ATT&amp;CK&reg; and enter it beside the <strong>TTPs</strong> section in the Pyramid of Pain template.&nbsp;</p>
+	</li>
+</ul>
 <img width="1744" alt="pyramidofpain" src="https://github.com/kirkdshelton/cybersecurity_professional/assets/10577356/f4b76fc4-6a0b-46af-ae59-009525e416d7">
